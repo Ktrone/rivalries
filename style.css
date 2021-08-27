@@ -1,0 +1,101 @@
+.nhl{
+	text-align: center;
+	color: black;
+}
+
+.img-nhl{
+	margin-top: 10px;
+	width: 300px;
+	height: 200px;
+	border-radius: 50%;
+	border: 10px royalblue;
+	transition: all .5s;
+	margin-left: 50pxS;
+	image: center;
+}
+.img-nhl:hover{
+	transform: scale(1.06) rotate(10deg) ;
+}
+
+
+
+.blues{
+	text-align: center;
+}
+
+
+.img-blues{
+	margin-top: 10px;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px royalblue;
+	transition: all .5s;
+	margin-left: 50pxS;
+	image: center;
+}
+
+.img-blues:hover{
+	transform: scale(1.06) rotate(10deg) ;
+}
+
+.blackhawks{
+	text-align: center;
+}
+
+
+.img-blackhawks{
+	margin-top: 10px;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 3px royalblue;
+	transition: all .5s;
+	margin-left: 50pxS;
+	image: center;
+}
+
+.img-blackhawks:hover{
+	transform: scale(1.06) rotate(10deg) ;
+}
+
+header{
+	font-size: 1.35em;
+	font-family: 'Varela Round', sans-serif;
+	color: #fff;
+	background: #e8e9e9;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+.container{
+	padding: 10px;
+	background: #fff;
+	border-radius: 5px;
+	margin: 45px auto;
+	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
+
+}
+.item{
+	color: #fff;
+	padding: 15px;
+	margin: 5px;
+	background: #3db5da;
+	border-radius: 3px;
+}
+/*
+ Flexbox
+ */
+ .container {
+ 	display: flex;
+ 	flex-direction: row ;
+ 	flex-wrap: wrap;
+ 	justify-content: space-between;
+ 	 }
+ .item{
+ 	flex-grow: 1;
+ }
+.item-nhl{
+	flex-grow: 4;
+}
