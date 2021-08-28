@@ -124,6 +124,7 @@ header{
  .container{
  	flex-direction: column;
  	align-items: center;
+ 	flex-wrap: wrap;
  }
 }
 
@@ -131,6 +132,7 @@ header{
 	.container{
 		flex-direction: row;
 		justify-content: space-between ;
+		flex-wrap: wrap;
 	}
 }
 
