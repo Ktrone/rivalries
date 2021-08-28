@@ -106,5 +106,5 @@ header{
 
 .hockey{
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 }
