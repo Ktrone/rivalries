@@ -90,6 +90,7 @@ header{
 	border-radius: 3px;
 	color: #ccc;
 	background-color: #7fff00;
+	colo
 }
 
 /*
@@ -103,6 +104,7 @@ header{
  	 }
  .item{
  	flex-grow: 1;
+ 	color: #7fff00;
  }
 .item-nhl{
 	flex-grow: 4;
