@@ -22,9 +22,6 @@
 
 
 
-.blues{
-	text-align: center;
-}
 
 
 .img-blues{
@@ -42,9 +39,6 @@
 	transform: scale(1.06) rotate(10deg) ;
 }
 
-.blackhawks{
-	text-align: center;
-}
 
 
 .img-blackhawks{
@@ -110,3 +104,7 @@ header{
 	flex-grow: 4;
 }
 
+.hockey{
+	display: flex;
+	flex-direction: column;
+}
