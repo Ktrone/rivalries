@@ -93,6 +93,21 @@ header{
 	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
 }
 
+.hockey-blues{
+	padding: 10px;
+	background: #fff;
+	border-radius: 5px;
+	margin: 45px auto;
+	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
+}
+
+.hockey-hawks{
+	padding: 10px;
+	background: #fff;
+	border-radius: 5px;
+	margin: 45px auto;
+	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
+}
 
 /*
  Flexbox
@@ -128,5 +143,4 @@ header{
 .hockey-hawks{
 	background: #f08080;
 	color: #f08080;
-	border-radius: 50%;
 }
