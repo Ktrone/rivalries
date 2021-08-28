@@ -90,18 +90,6 @@ header{
 	border-radius: 3px;
 	color: orange;
 }
-.item-blue{
-	color: orange;
-	border-color: orange;
-}
-
-.item-nhl{
-	color: black;
-}
-
-.item-blackhawks{
-	color: red ;
-}
 
 /*
  Flexbox
