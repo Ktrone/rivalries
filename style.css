@@ -117,4 +117,5 @@ header{
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	border-color: #000;
 }
