@@ -73,10 +73,7 @@ header{
 	
 }
 
-.nhl-background{
-	background-image: url(blues vs hawks.jpg);
-	background-image: inherit;
-}
+
 
 .container{
 	padding: 10px;
@@ -118,4 +115,8 @@ header{
  }
 .item-nhl{
 	flex-grow: 4;
+}
+
+.nhl-background{
+	background-image: url(nhl-background);
 }
