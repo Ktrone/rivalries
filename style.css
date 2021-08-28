@@ -72,6 +72,11 @@ header{
 	padding-top: 5%;
 	background-image: url(blues vs hawks.jpg);
 }
+
+.background-image{
+	background-image: url(blues vs hawks.jpg);
+}
+
 .container{
 	padding: 10px;
 	background: #fff;
