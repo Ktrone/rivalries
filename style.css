@@ -161,3 +161,8 @@ header{
 	display: flex;
 	color: #ff0000;
 }
+
+.img-nhl{
+	display: flex;
+	background: #fff;
+}
