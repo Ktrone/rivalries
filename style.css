@@ -118,3 +118,7 @@ header{
 	flex-grow: 4;
 }
 
+.nhl-background{
+	display: flex;
+	background-image: url("blues vs hawks.jpg");
+}
