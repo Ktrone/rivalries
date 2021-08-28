@@ -136,11 +136,13 @@ header{
 }
 
 .hockey-blues{
+	display: flex;
 	background: #f0f8ff;
 	color: #f0f8ff;
 }
 
 .hockey-hawks{
+	display: flex;
 	background: #f08080;
 	color: #f08080;
 }
