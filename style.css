@@ -134,6 +134,10 @@ header{
 	}
 }
 
+ .container{
+ 	flex-wrap: wrap;
+ }
+
  .item{
  	flex-grow: 1;
  	
