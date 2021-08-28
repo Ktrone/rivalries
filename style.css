@@ -14,7 +14,7 @@
 	transition: all .5s;
 	margin-left: 50pxS;
 	image: center;
-	background-color: transparent;
+	
 }
 .img-nhl:hover{
 	transform: scale(1.06) rotate(10deg) ;
