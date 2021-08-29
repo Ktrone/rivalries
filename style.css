@@ -84,7 +84,15 @@ header{
 }
 
 .item-blue{
-	background: #1a1aff;
+	background: #3366ff;
+}
+
+.item-nhl{
+	background: #737373;
+}
+
+.item-blackhawks{
+	background: #ff3333;
 }
 
 .hockey{
@@ -97,7 +105,7 @@ header{
 
 .hockey-blues{
 	padding: 10px;
-	background: #b3e0ff;
+	background: #3366ff;
 	border-radius: 5px;
 	margin: 45px auto;
 	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
