@@ -141,9 +141,10 @@ header{
 
 @media (min-width: 1025px) {
 	.container{
-		flex-direction: row;
+		flex-direction: column;
 		justify-content: space-between ;
 		flex-wrap: wrap;
+		align-items: center;
 	}
 }
 
