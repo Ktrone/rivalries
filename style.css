@@ -83,7 +83,7 @@ header{
 	color: #ccc;
 }
 
-.item-blues{
+.item-blue{
 	background: #1a1aff;
 }
 
@@ -97,10 +97,9 @@ header{
 
 .hockey-blues{
 	padding: 10px;
-	background: #ff3333;
+	background: #80ccff;
 	border-radius: 5px;
 	margin: 45px auto;
-	background: #ff3333;
 	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
 }
 
