@@ -167,6 +167,7 @@ header{
 	color: #ccc;
 	align-self: auto;
 	flex-direction: column;
+	justify-items: space-around;
 }
 
 }
