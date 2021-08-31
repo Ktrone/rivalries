@@ -159,11 +159,12 @@ header{
  	align-items: center;
  }
 
-.item{
+.main-item{
 	padding: 15px;
 	margin: 5px;
 	border-radius: 3px;
 	color: #ccc;
+	align-self: auto;
 }
 
 }
