@@ -85,13 +85,6 @@ header{
 	color: #ccc;
 }
 
-.item-blue{
-	background: #3366ff;
-	padding: 15px;
-	margin: 5px;
-	border-radius: 3px;
-	color: #ccc;
-}
 
 .item-nhl{
 	background: #737373;
@@ -101,13 +94,6 @@ header{
 	color: #ccc;
 }
 
-.item-blackhawks{
-	background: #ff3333;
-	padding: 15px;
-	margin: 5px;
-	border-radius: 3px;
-	color: #ccc;
-}
 
 .hockey{
 	padding: 10px;
