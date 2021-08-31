@@ -182,6 +182,7 @@ header{
 
  .container{
  	flex-wrap: wrap;
+ 	flex-direction: row;
  }
 
  .main-item{
