@@ -220,4 +220,5 @@ header{
 	align-content: center;
 	flex-direction: column;
 	justify-content: space-evenly;
+	background: #ccc;
 }
