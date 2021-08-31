@@ -183,7 +183,7 @@ header{
  }
 
  .item{
- 	flex-grow: 1;
+ 	flex-wrap: wrap;
  	
  
  }
