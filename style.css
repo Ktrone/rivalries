@@ -75,7 +75,7 @@ header{
 	border-radius: 5px;
 	margin: 45px auto;
 	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
-	background: #ccc;
+	background: #fff;
 
 }
 .main-item{
@@ -90,7 +90,7 @@ header{
 	background: #737373;
 	padding: 15px;
 	margin: 5px;
-	border-radius: 3px;
+	border-radius: 10px;
 	color: #ccc;
 }
 
@@ -98,7 +98,7 @@ header{
 	background: #ff3333;
 	padding: 15px;
 	margin: 5px;
-	border-radius: 3px;
+	border-radius: 10px;
 	color: #ccc;
 }
 
@@ -106,7 +106,7 @@ header{
 	background: #3366ff;
 	padding: 15px;
 	margin: 5px;
-	border-radius: 3px;
+	border-radius: 10px;
 	color: #ccc;
 }
 
