@@ -165,7 +165,7 @@ header{
 	border-radius: 3px;
 	color: #ccc;
 	align-self: auto;
-	flex-direction: row;
+	flex-direction: column;
 }
 
 }
