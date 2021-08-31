@@ -158,6 +158,23 @@ header{
  	align-items: center;
  	flex-wrap: wrap;
  }
+
+.item-blue{
+	background: #3366ff;
+	padding: 15px;
+	margin: 5px;
+	border-radius: 3px;
+	color: #ccc;
+}
+
+.hockey-hawks{
+	padding: 10px;
+	border-radius: 5px;
+	margin: 45px auto;
+	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
+	background: #ff3333;
+}
+
 }
 
 @media (min-width: 1025px) {
