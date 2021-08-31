@@ -152,6 +152,7 @@ header{
  .container,
  .main-item {
  	display: flex;
+ 	flex-wrap: wrap;
  	
  	 }
  .container{
