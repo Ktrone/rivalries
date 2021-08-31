@@ -152,13 +152,11 @@ header{
  .container,
  .main-item {
  	display: flex;
- 	flex-wrap: wrap;
  	
  	 }
  .container{
  	flex-direction: row;
  	align-items: center;
- 	flex-wrap: wrap;
  }
 
 .item{
