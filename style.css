@@ -12,8 +12,10 @@
 	border-radius: 50%;
 	border: 10px royalblue;
 	transition: all .5s;
-	margin-left: 50pxS;
+	margin: 50px;
 	image: center;
+	padding: 15px;
+	
 	
 }
 .img-nhl:hover{
