@@ -185,6 +185,7 @@ header{
 
  .main-item{
  	flex-wrap: wrap;
+ 	justify-content: space-around;
  	
  
  }
@@ -203,6 +204,7 @@ header{
 .hockey-blues{
 	display: flex;
 	color: #f0f8ff;
+	flex
 }
 
 .hockey-hawks{
