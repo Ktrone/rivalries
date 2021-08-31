@@ -110,6 +110,14 @@ header{
 	color: #ccc;
 }
 
+.bio{
+	padding: 10px;
+	background: #fff;
+	border-radius: 5px;
+	margin: 45px auto;
+	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
+}
+
 .hockey{
 	padding: 10px;
 	background: #fff;
@@ -204,4 +212,10 @@ header{
 .img-nhl{
 	display: flex;
 	background: #fff;
+}
+
+.bio{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: center;
 }
