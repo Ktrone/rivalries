@@ -274,3 +274,9 @@ header{
 	justify-content: space-evenly;
 }
 
+.fight{
+	display: flex;
+	color: #f0f8ff;
+	flex-direction: column;
+	align-items: center;
+}
