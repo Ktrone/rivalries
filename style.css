@@ -274,6 +274,7 @@ header{
 }
 
 .fight{
+	flex-direction: column;
 	display: flex;
 	align-content: center;
 }
