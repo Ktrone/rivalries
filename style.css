@@ -272,5 +272,6 @@ header{
 }
 
 .fight{
+	display: flex;
 	align-content: center;
 }
