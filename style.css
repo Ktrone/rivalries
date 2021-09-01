@@ -268,13 +268,13 @@ header{
 
 .rivalry{
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
 }
 
 .fight{
-	flex-direction: column;
 	display: flex;
-	align-content: center;
+	flex-direction: column;
+	align-items: center;
 }
