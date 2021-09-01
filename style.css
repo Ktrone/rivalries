@@ -57,13 +57,18 @@
 	transform: scale(1.06) rotate(10deg) ;
 }
 
+.fight:hover{
+	transform: scale(1.0) ;
+}
+
 .fight{
 	margin-top: 10px;
-	width: 300px;
-	height: 200px;
+	width: 550px;
+	height: 362px;
 	border: 3px royalblue;
 	transition: all .5s;
 	margin-left: 50pxS;
+
 }
 
 .img-blues-vs-hawks{
