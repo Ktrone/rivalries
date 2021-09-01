@@ -247,5 +247,7 @@ header{
 
 .rivalry{
 	display: flex;
-	color: #000;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
 }
