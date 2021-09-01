@@ -63,8 +63,9 @@
 
 .fight{
 	margin-top: 10px;
-	width: 550px;
-	height: 362px;
+	width: 200px;
+	height: 200px;
+	
 	border: 3px royalblue;
 	transition: all .5s;
 	margin-left: 50pxS;
