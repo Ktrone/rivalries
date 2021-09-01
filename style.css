@@ -247,7 +247,11 @@ header{
 
 .rivalry{
 	display: flex;
-	flex-direction: row;
+	flex-direction: column;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
+}
+
+.h1-rival{
+	
 }
