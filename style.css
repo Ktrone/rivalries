@@ -93,7 +93,7 @@ header{
 	border-radius: 5px;
 	margin: 45px auto;
 	box-shadow: 0 1.5px 0 0 rgba(0, 0, 0, 0.1);
-	background: #80b3ff;
+	background: #fff;
 
 }
 .main-item{
@@ -241,7 +241,7 @@ header{
 .hockey-blues{
 	display: flex;
 	color: #f0f8ff;
-	flex
+	flex-direction: column;
 }
 
 .hockey-hawks{
