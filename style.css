@@ -271,13 +271,8 @@ header{
 	flex-direction: column;
 	flex-wrap: wrap;
 	justify-content: space-evenly;
-	align-content: center;
 }
 
-.rivalry{
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
+.fight{
 	align-content: center;
 }
