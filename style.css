@@ -274,3 +274,10 @@ header{
 	align-content: center;
 }
 
+.fight{
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-content: center;
+}
