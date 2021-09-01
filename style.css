@@ -53,6 +53,10 @@
 	image: center;
 }
 
+.img-blackhawks:hover{
+	transform: scale(1.06) rotate(10deg) ;
+}
+
 .img-NHL-fight{
 	margin-top: 10px;
 	width: 300px;
@@ -63,8 +67,8 @@
 	margin-left: 50pxS;
 }
 
-.img-blackhawks:hover{
-	transform: scale(1.06) rotate(10deg) ;
+.img-blues-vs-hawks{
+	
 }
 
 header{
